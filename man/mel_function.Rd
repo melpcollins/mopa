@@ -7,7 +7,7 @@
 mel_function(love = TRUE)
 }
 \arguments{
-\item{love}{Do you love Mel? Defaults to TRUE.}
+\item{love}{Do you love Mel?}
 }
 \description{
 This function allows you to express your love of Mel
