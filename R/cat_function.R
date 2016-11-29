@@ -17,7 +17,7 @@ cat_function <- function(love=TRUE){
 #' A Mel Function
 #'
 #' This function allows you to express your love of Mel
-#' @param love Do you love Mel? Defaults to TRUE.
+#' @param love Do you love Mel?
 #' @keywords Mel
 #' @export
 #' @examples
