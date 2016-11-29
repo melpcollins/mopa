@@ -1,11 +1,12 @@
 Package: mopa
 Title: Outlier Profile analysis
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Version: 0.99.0
+Authors@R: person("Liz", "Considine", email = "lizconsidine@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 Depends:
-    R (>= 3.2.4)
+    R (>= 3.3.2)
 License: GPL-2
 LazyData: true
 RoxygenNote: 5.0.1
 Suggests: testthat
+biocViews: Metabolomics, biomarkers
