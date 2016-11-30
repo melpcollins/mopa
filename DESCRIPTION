@@ -8,5 +8,6 @@ Depends:
 License: GPL-2
 LazyData: true
 RoxygenNote: 5.0.1
-Suggests: testthat
+VignetteBuilder: knitr
+Suggests: testthat, BiocStyle, knitr, rmarkdown
 biocViews: Metabolomics, biomarkers

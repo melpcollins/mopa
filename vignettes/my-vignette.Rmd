@@ -1,0 +1,13 @@
+---
+title: "mopa vignette"
+author: "Liz Considine"
+output: 
+  BiocStyle::html_document
+vignette: >
+  %\VignetteIndexEntry{mopa vignette}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}  
+---
+
+# Introduction
+mopa (description of mopa goes here)
