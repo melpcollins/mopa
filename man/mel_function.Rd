@@ -9,6 +9,9 @@ mel_function(love = TRUE)
 \arguments{
 \item{love}{Do you love Mel?}
 }
+\value{
+the answer/output of function
+}
 \description{
 This function allows you to express your love of Mel
 }

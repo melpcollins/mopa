@@ -2,6 +2,7 @@
 #'
 #' This function allows you to express your love of cats.
 #' @param love Do you love cats? Defaults to TRUE.
+#' @return the answer/output of function
 #' @keywords cats
 #' @export
 #' @examples
@@ -18,6 +19,7 @@ cat_function <- function(love=TRUE){
 #'
 #' This function allows you to express your love of Mel
 #' @param love Do you love Mel?
+#' @return the answer/output of function
 #' @keywords Mel
 #' @export
 #' @examples
